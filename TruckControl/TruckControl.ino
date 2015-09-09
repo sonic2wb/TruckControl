@@ -5,7 +5,8 @@ void setup()
 {
 // Add your initialization code here
 }
-// Nullcomm sucks
+// Nullcomm Rocks
+
 // The loop function is called in an endless loop
 void loop()
 {
